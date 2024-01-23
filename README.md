@@ -1,9 +1,10 @@
 # HJM-Modelling
 HJM Modelling of the Forward rates and pricing Rate sensitive products from it.
 
-The data used is under data folder.
-
-HJM MODELLING (BUILT FROM GIVEN FORWARD RATES) AND PRICING CAPLET - data_2.csv.
+Following are the list of files -
+1. Python file - HJM MODELLING (BUILT FROM GIVEN FORWARD RATES) AND PRICING CAPLET.ipynb
+2. Data used - Data/data_2.csv.
+3. Link for the project - https://vipulambasht.github.io/HJM-Modelling/HJM_MODELLING_BUILT_USING_FORWARD_RATES_AND_PRICING_CAPLET.html
 
 
 
