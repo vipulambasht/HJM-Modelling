@@ -9,4 +9,4 @@ Following are the list of files -
 
 
 
- The default copyright laws apply, meaning that Author retain all rights to your source code and no one may reproduce, distribute, or create derivative works from this work without Author's permission.
+ The default copyright laws apply, meaning that Author retain all rights to the source code and no one may reproduce, distribute, or create derivative works from this work without Author's permission.
